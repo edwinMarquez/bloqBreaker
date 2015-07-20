@@ -1,7 +1,7 @@
 # BloqBreaker  
 Programming    @EdwinMrqz<br>
 Images by      @SergioMrqUz<br>
-a videogame<br>
+This is a videogame<br>
 <br>
 Watch it: https://www.youtube.com/watch?v=A4BEzJ5KITg<br>
 <br>
